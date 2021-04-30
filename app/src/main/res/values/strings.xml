@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="TV_title">Registration Form</string>
+    <string name="TV_subtitle">Welcome to Adventure Learning Club!</string>
+    <string name="TV_name">Full Name</string>
+
+</resources>
